@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HNG Task2</string>
+    <string name="go">GO</string>
+    <string name="track">Track</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name_and_track_below">Enter your name and track below</string>
+    <string name="what_s_your_details">What are your details?</string>
+    <string name="from">From</string>
+    <string name="welcome">Welcome!</string>
+    <string name="thanks">Thanks</string>
+</resources>
